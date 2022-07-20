@@ -84,10 +84,10 @@ author:
   avatar           : "profile1.png"
   bio              : "Incoming PhD Student at the University of Washington"
   location         : "Seattle, WA"
-  employer         :
+  employer         : "University of Washington"
   pubmed           : 
   googlescholar    : "https://scholar.google.co.uk/citations?hl=en&pli=1&user=dWaTwM4AAAAJ"
-  email            : "tsor13 AT cs DOT washington DOT edu"
+  email            : "tsor13@cs.washington.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-3251-3527"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  cv               : "https://github.com/tsor13/resume/raw/main/2022_02_18.pdf"
 
 
 # Reading Files
