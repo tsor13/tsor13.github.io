@@ -10,8 +10,10 @@ redirect_from:
 
 Access my [resume here.](https://tsor13.github.io/docs/TaylorSorensen.pdf)
 
-Publications:
+Publications
 ======
+Publications are listed in reverse chronological order. For a list of all publications, see [my google scholar profile](https://scholar.google.com/citations?hl=en&pli=1&user=dWaTwM4AAAAJ).
+
 - _An Information-theoretic Approach to Prompt Engineering Without Ground Truth Labels_  
   **Taylor Sorensen**, Joshua Robinson, Christopher Michael Rytting, Alexander Glenn Shaw, Kyle Jeffrey Rogers, Alexia Pauline Delorey, Mahmoud Khalil, Nancy Fulda, David Wingate  
   **ACL 2022**  
