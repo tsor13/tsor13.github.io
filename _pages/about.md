@@ -12,15 +12,20 @@ Access my [resume here.](https://tsor13.github.io/docs/TaylorSorensen.pdf)
 
 Publications:
 ======
-- An Information-theoretic Approach to Prompt Engineering Without Ground Truth Labels  
-  **Taylor Sorensen**, Joshua Robinson, Christopher Michael Rytting, Alexander Glenn Shaw, Kyle Jeffrey Rogers, Alexia Pauline Delorey, Mahmoud Khalil, Nancy Fulda, David Wingate 
-  **ACL 2022**   
+- __An Information-theoretic Approach to Prompt Engineering Without Ground Truth Labels__  
+  **Taylor Sorensen**, Joshua Robinson, Christopher Michael Rytting, Alexander Glenn Shaw, Kyle Jeffrey Rogers, Alexia Pauline Delorey, Mahmoud Khalil, Nancy Fulda, David Wingate  
+  **ACL 2022**  
   [Paper](https://arxiv.org/abs/2203.11364), [Code](https://github.com/BYU-PCCL/information-theoretic-prompts)
 
-- Nl-augmenter: A framework for task-sensitive natural language augmentation
+- __Nl-augmenter: A framework for task-sensitive natural language augmentation__  
   Kaustubh D Dhole, Varun Gangal, Sebastian Gehrmann, ..., **Taylor Sorensen** et al.  
   **Arxiv Preprint**  
   [Paper](https://arxiv.org/pdf/2112.02721.pdf), [Code](https://github.com/GEM-benchmark/NL-Augmenter)
+
+- __Using first principles for deep learning and model-based control of soft robots__  
+  Curtis C Johnson, Tyler Quackenbush, **Taylor Sorensen**, David Wingate, Marc D Killpack  
+  **Frontiers in Robotics and AI**  
+  [Paper](https://www.frontiersin.org/articles/10.3389/frobt.2021.654398/full), [Code](https://github.com/BYU-PCCL/DL-MPC)
 
 
 A data-driven personal website
