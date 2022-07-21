@@ -12,17 +12,17 @@ Access my [resume here.](https://tsor13.github.io/docs/TaylorSorensen.pdf)
 
 Publications:
 ======
-- __An Information-theoretic Approach to Prompt Engineering Without Ground Truth Labels__  
+- _An Information-theoretic Approach to Prompt Engineering Without Ground Truth Labels_  
   **Taylor Sorensen**, Joshua Robinson, Christopher Michael Rytting, Alexander Glenn Shaw, Kyle Jeffrey Rogers, Alexia Pauline Delorey, Mahmoud Khalil, Nancy Fulda, David Wingate  
   **ACL 2022**  
-  [Paper](https://arxiv.org/abs/2203.11364), [Code](https://github.com/BYU-PCCL/information-theoretic-prompts)
+  [Paper](https://arxiv.org/abs/2203.11364), [Code](https://github.com/BYU-PCCL/information-theoretic-prompts), [Presentation](https://underline.io/events/284/sessions/10759/lecture/50282-long-an-information-theoretic-approach-to-prompt-engineering-without-ground-truth-labels)
 
-- __Nl-augmenter: A framework for task-sensitive natural language augmentation__  
+- _Nl-augmenter: A framework for task-sensitive natural language augmentation_  
   Kaustubh D Dhole, Varun Gangal, Sebastian Gehrmann, ..., **Taylor Sorensen** et al.  
   **Arxiv Preprint**  
   [Paper](https://arxiv.org/pdf/2112.02721.pdf), [Code](https://github.com/GEM-benchmark/NL-Augmenter)
 
-- __Using first principles for deep learning and model-based control of soft robots__  
+- _Using first principles for deep learning and model-based control of soft robots_  
   Curtis C Johnson, Tyler Quackenbush, **Taylor Sorensen**, David Wingate, Marc D Killpack  
   **Frontiers in Robotics and AI**  
   [Paper](https://www.frontiersin.org/articles/10.3389/frobt.2021.654398/full), [Code](https://github.com/BYU-PCCL/DL-MPC)
