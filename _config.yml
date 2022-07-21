@@ -83,7 +83,7 @@ author:
   name             : "Taylor Sorensen"
   avatar           : "profile1.png"
   bio              : "Incoming PhD Student at the University of Washington"
-  location         : "Seattle, WA"
+  # location         : "Seattle, WA"
   employer         : "University of Washington"
   pubmed           : 
   googlescholar    : "https://scholar.google.co.uk/citations?hl=en&pli=1&user=dWaTwM4AAAAJ"
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  cv               : "https://github.com/tsor13/resume/raw/main/2022_02_18.pdf"
+  # cv               : "https://github.com/tsor13/resume/raw/main/2022_02_18.pdf"
 
 
 # Reading Files
