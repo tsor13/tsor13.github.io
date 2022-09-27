@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Taylor Sorensen. I'm a Computer Science PhD student at the [University of Washington](https://www.cs.washington.edu), where I'm be advised by [Yejin Choi](https://homes.cs.washington.edu/~yejin/). I research natural language processing (NLP) and artificial intelligence (AI) and am especially interested in AI alignment and ethics, large language models, and NLP for social good. I love working with language because I feel it's the best medium we have for communicating and understanding human intelligence, and I'm passionate about understanding how to make AI/language models work for positive world impact.
+Hi! My name is Taylor Sorensen. I'm a Computer Science PhD student at the [University of Washington](https://www.cs.washington.edu), where I'm advised by [Yejin Choi](https://homes.cs.washington.edu/~yejin/). I research natural language processing (NLP) and artificial intelligence (AI) and am especially interested in AI alignment and ethics, large language models, and NLP for social good. I love working with language because I feel it's the best medium we have for communicating and understanding human intelligence, and I'm passionate about understanding how to make AI/language models work for positive world impact.
 
 Previously, I received my BS in [Applied Math and Computer Science](https://acme.byu.edu) at Brigham Young University. I also worked towards an MS, where I worked with [David Wingate](https://science.byu.edu/directory/david-wingate) on a variety of problems ranging from NLP to machine learning to soft robotics until I left to pursue my PhD.
 
@@ -30,3 +30,5 @@ Publications are listed in reverse chronological order. For a list of all public
   Curtis C Johnson, Tyler Quackenbush, **Taylor Sorensen**, David Wingate, Marc D Killpack  
   **Frontiers in Robotics and AI**  
   [Paper](https://www.frontiersin.org/articles/10.3389/frobt.2021.654398/full), [Code](https://github.com/BYU-PCCL/DL-MPC)
+
+(Website last updated: Sep 2022)

@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Taylor Sorensen's Website"
-title_separator          : "-"
+    : "-"
 name                     : &name "Taylor Sorensen"
 description              : &description "personal description"
 url                      : https://tsor13.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Taylor Sorensen"
   avatar           : "profile1.png"
-  bio              : "Incoming PhD Student at the University of Washington"
+  bio              : "PhD Student at the University of Washington"
   location         : "Seattle, WA"
   # employer         : "University of Washington"
   pubmed           : 
