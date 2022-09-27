@@ -31,3 +31,6 @@ Publications are listed in reverse chronological order. For a list of all public
   Curtis C Johnson, Tyler Quackenbush, **Taylor Sorensen**, David Wingate, Marc D Killpack  
   **Frontiers in Robotics and AI**  
   [Paper](https://www.frontiersin.org/articles/10.3389/frobt.2021.654398/full), [Code](https://github.com/BYU-PCCL/DL-MPC)
+
+======
+Website last updated: Sep 27, 2022
