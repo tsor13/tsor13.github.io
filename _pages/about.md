@@ -12,6 +12,8 @@ Hi! My name is Taylor Sorensen. I'm a Computer Science PhD student at the [Unive
 
 Previously, I received my BS in [Applied Math and Computer Science](https://acme.byu.edu) at Brigham Young University. I also worked towards an MS, where I worked with [David Wingate](https://science.byu.edu/directory/david-wingate) on a variety of problems ranging from NLP to machine learning to soft robotics until I left to pursue my PhD.
 
+Historically, I've worked on a variety of problems ranging from computer vision to RL for soft robotics to ML-based quantitative investing to NLP for drug discovery.
+
 Publications
 ======
 Publications are listed in reverse chronological order. For a list of all publications, see [my google scholar profile](https://scholar.google.com/citations?hl=en&pli=1&user=dWaTwM4AAAAJ).
