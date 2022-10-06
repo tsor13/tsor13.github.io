@@ -19,7 +19,7 @@ Publications are listed in reverse chronological order. For a list of all public
 
 - _Prompt Compression and Contrastive Conditioning for Controllability and Toxicity Reduction in Language Models_  
   David Wingate, Mohammad Shoeybi, **Taylor Sorensen**  
-  **EMNLP 2022**
+  **EMNLP 2022**   
   Paper (link forthcoming)
 
 - _An Information-theoretic Approach to Prompt Engineering Without Ground Truth Labels_  
