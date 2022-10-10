@@ -19,8 +19,8 @@ Publications are listed in reverse chronological order. For a list of all public
 
 - _Prompt Compression and Contrastive Conditioning for Controllability and Toxicity Reduction in Language Models_  
   David Wingate, Mohammad Shoeybi, **Taylor Sorensen**  
-  **EMNLP 2022**   
-  Paper (link forthcoming)
+  **Findings of EMNLP 2022**   
+  [Paper](https://arxiv.org/abs/2210.03162), [Code](https://github.com/BYU-PCCL/prompt-compression-contrastive-coding)
 
 - _An Information-theoretic Approach to Prompt Engineering Without Ground Truth Labels_  
   **Taylor Sorensen**, Joshua Robinson, Christopher Michael Rytting, Alexander Glenn Shaw, Kyle Jeffrey Rogers, Alexia Pauline Delorey, Mahmoud Khalil, Nancy Fulda, David Wingate  
