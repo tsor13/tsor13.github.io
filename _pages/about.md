@@ -17,6 +17,21 @@ Publications
 ======
 Publications are listed in reverse chronological order. For a list of all publications, see [my google scholar profile](https://scholar.google.com/citations?hl=en&pli=1&user=dWaTwM4AAAAJ).
 
+- _Value Kaleidoscope: Engaging AI with Pluralistic Human Values, Rights, and Duties_  
+  **Taylor Sorensen**, Liwei Jiang, Jena Hwang, Sydney Levine, Valentina Pyatkin, Peter West, Nouha Dziri, Ximing Lu, Kavel Rao, Chandra Bhagavatula, Maarten Sap, John Tasioulas, Yejin Choi  
+  **Arxiv Preprint**  
+  [Paper](https://arxiv.org/abs/2309.00779), [Demo](https://kaleido.allen.ai/), [Code](https://github.com/tsor13/kaleido), [Dataset](https://huggingface.co/datasets/tsor13/ValuePrism), [Model](https://huggingface.co/tsor13/kaleido-xl)
+
+- _Impossible Distillation: from Low-Quality Model to High-Quality Dataset & Model for Summarization and Paraphrasing_  
+  Jaehun Jung, Peter West, Liwei Jiang, Faeze Brahman, Ximing Lu, Jillian Fisher, **Taylor Sorensen**, Yejin Choi  
+  **Arxiv Preprint**  
+  [Paper](https://arxiv.org/abs/2305.16635)
+
+- _Towards Coding Social Science Datasets with Language Models_  
+  Christopher Michael Rytting, **Taylor Sorensen**, Lisa Argyle, Ethan Busby, Nancy Fulda, Joshua Gubler, David Wingate  
+  **Arxiv Preprint**  
+  [Paper](https://arxiv.org/abs/2306.02177)
+
 - _Prompt Compression and Contrastive Conditioning for Controllability and Toxicity Reduction in Language Models_  
   David Wingate, Mohammad Shoeybi, **Taylor Sorensen**  
   **Findings of EMNLP 2022**   
