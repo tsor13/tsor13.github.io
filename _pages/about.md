@@ -17,6 +17,11 @@ Publications
 ======
 Publications are listed in reverse chronological order. For a list of all publications, see [my google scholar profile](https://scholar.google.com/citations?hl=en&pli=1&user=dWaTwM4AAAAJ).
 
+- _Leveraging AI for democratic discourse: Chat interventions can improve online political conversations at scale_  
+  Lisa P. Argyle, Christopher A. Bail, Ethan C. Busby, Joshua R. Gubler, Thomas Howe, Christopher Rytting, **Taylor Sorensen**, David Wingate  
+  **Published in PNAS**  
+  [Paper](https://www.pnas.org/doi/10.1073/pnas.2311627120)
+
 - _Value Kaleidoscope: Engaging AI with Pluralistic Human Values, Rights, and Duties_  
   **Taylor Sorensen**, Liwei Jiang, Jena Hwang, Sydney Levine, Valentina Pyatkin, Peter West, Nouha Dziri, Ximing Lu, Kavel Rao, Chandra Bhagavatula, Maarten Sap, John Tasioulas, Yejin Choi  
   **Arxiv Preprint**  
@@ -53,4 +58,4 @@ Publications are listed in reverse chronological order. For a list of all public
   [Paper](https://www.frontiersin.org/articles/10.3389/frobt.2021.654398/full), [Code](https://github.com/BYU-PCCL/DL-MPC)
 
 ======
-Website last updated: Sep 11, 2023
+Website last updated: Oct 3, 2023
