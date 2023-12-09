@@ -24,8 +24,12 @@ Publications are listed in reverse chronological order. For a list of all public
 
 - _Value Kaleidoscope: Engaging AI with Pluralistic Human Values, Rights, and Duties_  
   **Taylor Sorensen**, Liwei Jiang, Jena Hwang, Sydney Levine, Valentina Pyatkin, Peter West, Nouha Dziri, Ximing Lu, Kavel Rao, Chandra Bhagavatula, Maarten Sap, John Tasioulas, Yejin Choi  
-  **Arxiv Preprint**  
+  **Accepted to AAAI `24**  
   [Paper](https://arxiv.org/abs/2309.00779), [Demo](https://kaleido.allen.ai/), [Code](https://github.com/tsor13/kaleido), [Dataset](https://huggingface.co/datasets/tsor13/ValuePrism), [Model](https://huggingface.co/tsor13/kaleido-xl)
+
+- _NovaCOMET: Open Commonsense Foundation Models with Symbolic Knowledge Distillation_  
+  Peter West, Ronan Bras, **Taylor Sorensen**, Bill Lin, Liwei Jiang, Ximing Lu, Khyathi Chandu, Jack Hessel, Ashutosh Baheti, Chandra Bhagavatula, Yejin Choi
+  **Findings of EMNLP 2023**   
 
 - _Impossible Distillation: from Low-Quality Model to High-Quality Dataset & Model for Summarization and Paraphrasing_  
   Jaehun Jung, Peter West, Liwei Jiang, Faeze Brahman, Ximing Lu, Jillian Fisher, **Taylor Sorensen**, Yejin Choi  
@@ -58,4 +62,4 @@ Publications are listed in reverse chronological order. For a list of all public
   [Paper](https://www.frontiersin.org/articles/10.3389/frobt.2021.654398/full), [Code](https://github.com/BYU-PCCL/DL-MPC)
 
 ======
-Website last updated: Oct 3, 2023
+Website last updated: Dec 9, 2023
