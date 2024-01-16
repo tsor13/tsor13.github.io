@@ -30,6 +30,7 @@ Publications are listed in reverse chronological order. For a list of all public
 - _NovaCOMET: Open Commonsense Foundation Models with Symbolic Knowledge Distillation_  
   Peter West, Ronan Bras, **Taylor Sorensen**, Bill Lin, Liwei Jiang, Ximing Lu, Khyathi Chandu, Jack Hessel, Ashutosh Baheti, Chandra Bhagavatula, Yejin Choi 
   **Findings of EMNLP 2023**   
+  [Paper](https://aclanthology.org/2023.findings-emnlp.80/)
 
 - _Impossible Distillation: from Low-Quality Model to High-Quality Dataset & Model for Summarization and Paraphrasing_  
   Jaehun Jung, Peter West, Liwei Jiang, Faeze Brahman, Ximing Lu, Jillian Fisher, **Taylor Sorensen**, Yejin Choi  
@@ -44,12 +45,12 @@ Publications are listed in reverse chronological order. For a list of all public
 - _Prompt Compression and Contrastive Conditioning for Controllability and Toxicity Reduction in Language Models_  
   David Wingate, Mohammad Shoeybi, **Taylor Sorensen**  
   **Findings of EMNLP 2022**   
-  [Paper](https://arxiv.org/abs/2210.03162), [Code](https://github.com/BYU-PCCL/prompt-compression-contrastive-coding)
+  [Paper](https://aclanthology.org/2022.findings-emnlp.412/), [Code](https://github.com/BYU-PCCL/prompt-compression-contrastive-coding)
 
 - _An Information-theoretic Approach to Prompt Engineering Without Ground Truth Labels_  
   **Taylor Sorensen**, Joshua Robinson, Christopher Michael Rytting, Alexander Glenn Shaw, Kyle Jeffrey Rogers, Alexia Pauline Delorey, Mahmoud Khalil, Nancy Fulda, David Wingate  
   **ACL 2022**  
-  [Paper](https://arxiv.org/abs/2203.11364), [Code](https://github.com/BYU-PCCL/information-theoretic-prompts), [Presentation](https://underline.io/events/284/sessions/10759/lecture/50282-long-an-information-theoretic-approach-to-prompt-engineering-without-ground-truth-labels)
+  [Paper](https://aclanthology.org/2022.acl-long.60/), [Code](https://github.com/BYU-PCCL/information-theoretic-prompts), [Presentation](https://underline.io/events/284/sessions/10759/lecture/50282-long-an-information-theoretic-approach-to-prompt-engineering-without-ground-truth-labels)
 
 - _Nl-augmenter: A framework for task-sensitive natural language augmentation_  
   Kaustubh D Dhole, Varun Gangal, Sebastian Gehrmann, ..., **Taylor Sorensen** et al.  
