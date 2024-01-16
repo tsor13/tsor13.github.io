@@ -28,7 +28,7 @@ Publications are listed in reverse chronological order. For a list of all public
   [Paper](https://arxiv.org/abs/2309.00779), [Demo](https://kaleido.allen.ai/), [Code](https://github.com/tsor13/kaleido), [Dataset](https://huggingface.co/datasets/tsor13/ValuePrism), [Model](https://huggingface.co/tsor13/kaleido-xl)
 
 - _NovaCOMET: Open Commonsense Foundation Models with Symbolic Knowledge Distillation_  
-  Peter West, Ronan Bras, **Taylor Sorensen**, Bill Lin, Liwei Jiang, Ximing Lu, Khyathi Chandu, Jack Hessel, Ashutosh Baheti, Chandra Bhagavatula, Yejin Choi
+  Peter West, Ronan Bras, **Taylor Sorensen**, Bill Lin, Liwei Jiang, Ximing Lu, Khyathi Chandu, Jack Hessel, Ashutosh Baheti, Chandra Bhagavatula, Yejin Choi 
   **Findings of EMNLP 2023**   
 
 - _Impossible Distillation: from Low-Quality Model to High-Quality Dataset & Model for Summarization and Paraphrasing_  
