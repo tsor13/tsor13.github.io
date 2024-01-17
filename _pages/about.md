@@ -24,7 +24,7 @@ Publications are listed in reverse chronological order. For a list of all public
 
 - _Value Kaleidoscope: Engaging AI with Pluralistic Human Values, Rights, and Duties_  
   **Taylor Sorensen**, Liwei Jiang, Jena Hwang, Sydney Levine, Valentina Pyatkin, Peter West, Nouha Dziri, Ximing Lu, Kavel Rao, Chandra Bhagavatula, Maarten Sap, John Tasioulas, Yejin Choi  
-  **AAAI 2024**  _Oral (top 3% of submissions)_ 
+  **AAAI 2024**  _Oral (top 3% of submissions)_    
   [Paper](https://arxiv.org/abs/2309.00779), [Demo](https://kaleido.allen.ai/), [Code](https://github.com/tsor13/kaleido), [Dataset](https://huggingface.co/datasets/tsor13/ValuePrism), [Model](https://huggingface.co/tsor13/kaleido-xl)
 
 - _NovaCOMET: Open Commonsense Foundation Models with Symbolic Knowledge Distillation_  
