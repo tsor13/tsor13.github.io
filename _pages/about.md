@@ -17,6 +17,11 @@ Publications
 ======
 Publications are listed in reverse chronological order. For a list of all publications, see [my google scholar profile](https://scholar.google.com/citations?hl=en&pli=1&user=dWaTwM4AAAAJ).
 
+- _A Roadmap to Pluralistic Alignment_  
+  **Taylor Sorensen**, Jared Moore, Jillian Fisher, Mitchell Gordon, Niloofar Mireshghallah, Christopher Michael Rytting, Andre Ye, Liwei Jiang, Ximing Lu, Nouha Dziri, Tim Althoff, Yejin Choi
+  **Arxiv Preprint**  
+  [Paper](https://arxiv.org/abs/2402.05070)
+
 - _Leveraging AI for democratic discourse: Chat interventions can improve online political conversations at scale_  
   Lisa P. Argyle, Christopher A. Bail, Ethan C. Busby, Joshua R. Gubler, Thomas Howe, Christopher Rytting, **Taylor Sorensen**, David Wingate  
   **Published in PNAS**  
@@ -63,4 +68,4 @@ Publications are listed in reverse chronological order. For a list of all public
   [Paper](https://www.frontiersin.org/articles/10.3389/frobt.2021.654398/full), [Code](https://github.com/BYU-PCCL/DL-MPC)
 
 ======
-Website last updated: Dec 9, 2023
+Website last updated: Feb 7, 2024
