@@ -18,7 +18,7 @@ Publications
 Publications are listed in reverse chronological order. For a list of all publications, see [my google scholar profile](https://scholar.google.com/citations?hl=en&pli=1&user=dWaTwM4AAAAJ).
 
 - _A Roadmap to Pluralistic Alignment_  
-  **Taylor Sorensen**, Jared Moore, Jillian Fisher, Mitchell Gordon, Niloofar Mireshghallah, Christopher Michael Rytting, Andre Ye, Liwei Jiang, Ximing Lu, Nouha Dziri, Tim Althoff, Yejin Choi
+  **Taylor Sorensen**, Jared Moore, Jillian Fisher, Mitchell Gordon, Niloofar Mireshghallah, Christopher Michael Rytting, Andre Ye, Liwei Jiang, Ximing Lu, Nouha Dziri, Tim Althoff, Yejin Choi  
   **Arxiv Preprint**  
   [Paper](https://arxiv.org/abs/2402.05070)
 
