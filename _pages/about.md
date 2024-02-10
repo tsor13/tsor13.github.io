@@ -19,7 +19,7 @@ Publications are listed in reverse chronological order. For a list of all public
 
 - _A Roadmap to Pluralistic Alignment_  
   **Taylor Sorensen**, Jared Moore, Jillian Fisher, Mitchell Gordon, Niloofar Mireshghallah, Christopher Michael Rytting, Andre Ye, Liwei Jiang, Ximing Lu, Nouha Dziri, Tim Althoff, Yejin Choi  
-  **Arxiv Preprint**  
+  **arXiv Preprint**  
   [Paper](https://arxiv.org/abs/2402.05070)
 
 - _Leveraging AI for democratic discourse: Chat interventions can improve online political conversations at scale_  
@@ -33,18 +33,18 @@ Publications are listed in reverse chronological order. For a list of all public
   [Paper](https://arxiv.org/abs/2309.00779), [Demo](https://kaleido.allen.ai/), [Code](https://github.com/tsor13/kaleido), [Dataset](https://huggingface.co/datasets/tsor13/ValuePrism), [Model](https://huggingface.co/tsor13/kaleido-xl)
 
 - _NovaCOMET: Open Commonsense Foundation Models with Symbolic Knowledge Distillation_  
-  Peter West, Ronan Bras, **Taylor Sorensen**, Bill Lin, Liwei Jiang, Ximing Lu, Khyathi Chandu, Jack Hessel, Ashutosh Baheti, Chandra Bhagavatula, Yejin Choi 
+  Peter West, Ronan Bras, **Taylor Sorensen**, Bill Lin, Liwei Jiang, Ximing Lu, Khyathi Chandu, Jack Hessel, Ashutosh Baheti, Chandra Bhagavatula, Yejin Choi  
   **Findings of EMNLP 2023**   
   [Paper](https://aclanthology.org/2023.findings-emnlp.80/)
 
 - _Impossible Distillation: from Low-Quality Model to High-Quality Dataset & Model for Summarization and Paraphrasing_  
   Jaehun Jung, Peter West, Liwei Jiang, Faeze Brahman, Ximing Lu, Jillian Fisher, **Taylor Sorensen**, Yejin Choi  
-  **Arxiv Preprint**  
+  **arXiv Preprint**  
   [Paper](https://arxiv.org/abs/2305.16635)
 
 - _Towards Coding Social Science Datasets with Language Models_  
   Christopher Michael Rytting, **Taylor Sorensen**, Lisa Argyle, Ethan Busby, Nancy Fulda, Joshua Gubler, David Wingate  
-  **Arxiv Preprint**  
+  **arXiv Preprint**  
   [Paper](https://arxiv.org/abs/2306.02177)
 
 - _Prompt Compression and Contrastive Conditioning for Controllability and Toxicity Reduction in Language Models_  
@@ -59,7 +59,7 @@ Publications are listed in reverse chronological order. For a list of all public
 
 - _Nl-augmenter: A framework for task-sensitive natural language augmentation_  
   Kaustubh D Dhole, Varun Gangal, Sebastian Gehrmann, ..., **Taylor Sorensen** et al.  
-  **Arxiv Preprint**  
+  **arXiv Preprint**  
   [Paper](https://arxiv.org/pdf/2112.02721.pdf), [Code](https://github.com/GEM-benchmark/NL-Augmenter)
 
 - _Using first principles for deep learning and model-based control of soft robots_  
