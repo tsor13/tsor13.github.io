@@ -47,9 +47,10 @@ function copyToClipboard(text) {
 
 function showToast(text) {
   var toast = document.getElementById("toast");
-  toast.textContent = 'Citation copied to clipboard: ' + text; // Display the copied text
+  // toast.textContent = 'Citation copied to clipboard: ' + text; // Display the copied text
+  toast.textContent = 'Citation copied to clipboard!'; // Display the copied text
   toast.style.visibility = "visible";
-  setTimeout(function(){ toast.style.visibility = "hidden"; }, 3000);
+  setTimeout(function(){ toast.style.visibility = "hidden"; }, 1000);
 }
 </script>
 
