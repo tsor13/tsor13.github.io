@@ -20,12 +20,12 @@ Publications are listed in reverse chronological order. For a list of all public
 - _A Roadmap to Pluralistic Alignment_  
   **Taylor Sorensen**, Jared Moore, Jillian Fisher, Mitchell Gordon, Niloofar Mireshghallah, Christopher Michael Rytting, Andre Ye, Liwei Jiang, Ximing Lu, Nouha Dziri, Tim Althoff, Yejin Choi
   **Arxiv Preprint**  
-  [Paper](https://arxiv.org/abs/2402.05070)
+  [Paper](https://arxiv.org/abs/2402.05070), Featured in [Jack Clark's Import AI](https://importai.substack.com/p/import-ai-360-guessing-emotions-drone)  and [Interconnects](https://www.interconnects.ai/p/reinventing-llm-alignment)
 
 - _Leveraging AI for democratic discourse: Chat interventions can improve online political conversations at scale_  
   Lisa P. Argyle, Christopher A. Bail, Ethan C. Busby, Joshua R. Gubler, Thomas Howe, Christopher Rytting, **Taylor Sorensen**, David Wingate  
   **Published in PNAS**  
-  [Paper](https://www.pnas.org/doi/10.1073/pnas.2311627120)
+  [Paper](https://www.pnas.org/doi/10.1073/pnas.2311627120), [Science Journal for Kids Adaptation](https://www.sciencejournalforkids.org/articles/how-can-ai-make-online-chats-kinder/)
 
 - _Value Kaleidoscope: Engaging AI with Pluralistic Human Values, Rights, and Duties_  
   **Taylor Sorensen**, Liwei Jiang, Jena Hwang, Sydney Levine, Valentina Pyatkin, Peter West, Nouha Dziri, Ximing Lu, Kavel Rao, Chandra Bhagavatula, Maarten Sap, John Tasioulas, Yejin Choi  
@@ -60,7 +60,7 @@ function showToast(text) {
 
 - _Impossible Distillation: from Low-Quality Model to High-Quality Dataset & Model for Summarization and Paraphrasing_  
   Jaehun Jung, Peter West, Liwei Jiang, Faeze Brahman, Ximing Lu, Jillian Fisher, **Taylor Sorensen**, Yejin Choi  
-  **Arxiv Preprint**  
+  **NAACL 2024**  
   [Paper](https://arxiv.org/abs/2305.16635)
 
 - _Towards Coding Social Science Datasets with Language Models_  
@@ -89,4 +89,4 @@ function showToast(text) {
   [Paper](https://www.frontiersin.org/articles/10.3389/frobt.2021.654398/full), [Code](https://github.com/BYU-PCCL/DL-MPC)
 
 ======
-Website last updated: Feb 7, 2024
+Website last updated: Apr 29, 2024
