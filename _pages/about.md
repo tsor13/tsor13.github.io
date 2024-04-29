@@ -9,9 +9,7 @@ redirect_from:
 ---
 Hi! My name is Taylor Sorensen. I'm a Computer Science PhD student at the [University of Washington](https://www.cs.washington.edu), where I'm fortunate to be advised by [Yejin Choi](https://homes.cs.washington.edu/~yejin/). I research natural language processing (NLP) and artificial intelligence (AI) and am especially interested in AI alignment and ethics, large language models, and NLP for social good. I love working with language because I feel it's the best medium we have for communicating and understanding human intelligence, and I'm passionate about understanding how to make AI/language models work for positive world impact.
 
-Previously, I received my BS in [Applied Math and Computer Science](https://acme.byu.edu) at Brigham Young University. I also worked towards an MS, where I worked with [David Wingate](https://science.byu.edu/directory/david-wingate) on a variety of problems ranging from NLP to machine learning to soft robotics until I left to pursue my PhD.
-
-Historically, I've worked on a variety of problems ranging from computer vision to RL for soft robotics to ML-based quantitative investing to NLP for drug discovery.
+Previously, I received my BS in [Applied Math and Computer Science](https://acme.byu.edu) at Brigham Young University. I also worked towards an MS, where I worked with [David Wingate](https://science.byu.edu/directory/david-wingate) on NLP and machine learning for soft robotics until I left to pursue my PhD. Historically, I've also spent time on a variety of problems ranging from computer vision to RL for soft robotics to ML-based quantitative investing to NLP for drug discovery.
 
 Publications
 ======
