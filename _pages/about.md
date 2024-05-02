@@ -17,7 +17,7 @@ Publications are listed in reverse chronological order. For a list of all public
 
 - _A Roadmap to Pluralistic Alignment_  
   **Taylor Sorensen**, Jared Moore, Jillian Fisher, Mitchell Gordon, Niloofar Mireshghallah, Christopher Michael Rytting, Andre Ye, Liwei Jiang, Ximing Lu, Nouha Dziri, Tim Althoff, Yejin Choi  
-  **Arxiv Preprint**  
+  **ICML 2024**  
   [Paper](https://arxiv.org/abs/2402.05070), Featured in [Jack Clark's Import AI](https://importai.substack.com/p/import-ai-360-guessing-emotions-drone)  and [Interconnects](https://www.interconnects.ai/p/reinventing-llm-alignment)
 
 - _Leveraging AI for democratic discourse: Chat interventions can improve online political conversations at scale_  
