@@ -17,8 +17,8 @@ Publications are listed in reverse chronological order. For a list of all public
 
 - _A Roadmap to Pluralistic Alignment_  
   **Taylor Sorensen**, Jared Moore, Jillian Fisher, Mitchell Gordon, Niloofar Mireshghallah, Christopher Michael Rytting, Andre Ye, Liwei Jiang, Ximing Lu, Nouha Dziri, Tim Althoff, Yejin Choi  
-  **ICML 2024**  
-  [Paper](https://arxiv.org/abs/2402.05070), Featured in [Jack Clark's Import AI](https://importai.substack.com/p/import-ai-360-guessing-emotions-drone)  and [Interconnects](https://www.interconnects.ai/p/reinventing-llm-alignment)
+  **ICML 2024 Position Paper**  
+  [Paper](https://arxiv.org/abs/2402.05070), Featured in [Jack Clark's Import AI](https://importai.substack.com/p/import-ai-360-guessing-emotions-drone)  and [Interconnects](https://www.interconnects.ai/p/reinventing-llm-alignment), [Invited Talk](https://www.youtube.com/watch?v=lEoBNBfNklI)
 
 - _Leveraging AI for democratic discourse: Chat interventions can improve online political conversations at scale_  
   Lisa P. Argyle, Christopher A. Bail, Ethan C. Busby, Joshua R. Gubler, Thomas Howe, Christopher Rytting, **Taylor Sorensen**, David Wingate  
@@ -28,7 +28,7 @@ Publications are listed in reverse chronological order. For a list of all public
 - _Value Kaleidoscope: Engaging AI with Pluralistic Human Values, Rights, and Duties_  
   **Taylor Sorensen**, Liwei Jiang, Jena Hwang, Sydney Levine, Valentina Pyatkin, Peter West, Nouha Dziri, Ximing Lu, Kavel Rao, Chandra Bhagavatula, Maarten Sap, John Tasioulas, Yejin Choi  
   **AAAI 2024**  _Oral (top 3% of submissions)_    
-  [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29970), [Presentation](https://underline.io/lecture/93113-value-kaleidoscope-engaging-ai-with-pluralistic-human-values-rights-and-duties), [Demo](https://kaleido.allen.ai/), [Code](https://github.com/tsor13/kaleido), [Dataset](https://huggingface.co/datasets/tsor13/ValuePrism), [Model](https://huggingface.co/tsor13/kaleido-xl)
+  [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29970), [Presentation](https://underline.io/lecture/93113-value-kaleidoscope-engaging-ai-with-pluralistic-human-values-rights-and-duties), [Demo](https://kaleido.allen.ai/), [Code](https://github.com/tsor13/kaleido), [Dataset](https://huggingface.co/datasets/tsor13/ValuePrism), [Model](https://huggingface.co/tsor13/kaleido-xl), [Invited Talk](https://www.youtube.com/watch?v=lEoBNBfNklI)
 
 <div id="toast" style="visibility: hidden; min-width: 250px; margin-left: -125px; background-color: black; color: white; text-align: center; border-radius: 2px; padding: 16px; position: fixed; z-index: 1; left: 50%; bottom: 30px; font-size: 17px;"></div>
 
@@ -85,6 +85,12 @@ function showToast(text) {
   Curtis C Johnson, Tyler Quackenbush, **Taylor Sorensen**, David Wingate, Marc D Killpack  
   **Frontiers in Robotics and AI**  
   [Paper](https://www.frontiersin.org/articles/10.3389/frobt.2021.654398/full), [Code](https://github.com/BYU-PCCL/DL-MPC)
+
+Invited Talks
+======
+- IBM Research _AI and Pluralistic Human Values._ March 2024
+- BuzzRobot AI Community _Aligning AI with Pluralistic Human Values._ May 2024 [Recording](https://www.youtube.com/watch?v=lEoBNBfNklI)
+
 
 ======
 Website last updated: Apr 29, 2024
