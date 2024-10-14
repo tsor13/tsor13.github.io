@@ -14,12 +14,12 @@ Publications
 Publications are listed in reverse chronological order. For a list of all publications, see [my google scholar profile](https://scholar.google.com/citations?hl=en&pli=1&user=dWaTwM4AAAAJ).
 
 - _Can Language Models Reason about Individualistic Human Values and Preferences?_  
-  Liwei Jiang, **Taylor Sorensen**, Sydney Levin, Yejin Choi
+  Liwei Jiang, **Taylor Sorensen**, Sydney Levin, Yejin Choi  
   **In review**  
   [Paper](https://arxiv.org/abs/2410.03868)
 
 - _Modular Pluralism: Pluralistic Alignment via Multi-LLM Collaboration_  
-  Shangbin Feng, **Taylor Sorensen**, Yuhan Liu, Jillian Fisher, Chan Young Park, Yejin Choi, Yulia Tsvetkov
+  Shangbin Feng, **Taylor Sorensen**, Yuhan Liu, Jillian Fisher, Chan Young Park, Yejin Choi, Yulia Tsvetkov  
   **EMNLP 2024**  
   [Paper](https://arxiv.org/abs/2406.15951)
 
