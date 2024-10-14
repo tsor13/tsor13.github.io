@@ -15,7 +15,7 @@ Publications are listed in reverse chronological order. For a list of all public
 
 - _Can Language Models Reason about Individualistic Human Values and Preferences?_  
   Liwei Jiang, **Taylor Sorensen**, Sydney Levin, Yejin Choi  
-  **In review**  
+  **Arxiv Preprint**  
   [Paper](https://arxiv.org/abs/2410.03868)
 
 - _Modular Pluralism: Pluralistic Alignment via Multi-LLM Collaboration_  
