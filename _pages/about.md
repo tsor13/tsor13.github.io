@@ -7,13 +7,21 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! My name is Taylor Sorensen. I'm a Computer Science PhD student at the [University of Washington](https://www.cs.washington.edu), where I'm fortunate to be advised by [Yejin Choi](https://homes.cs.washington.edu/~yejin/). I research natural language processing (NLP) and artificial intelligence (AI) and am especially interested in AI alignment and ethics, large language models, and NLP for social good. I love working with language because I feel it's the best medium we have for communicating and understanding human intelligence, and I'm passionate about understanding how to make AI/language models work for positive world impact.
-
-Previously, I received my BS in [Applied Math and Computer Science](https://acme.byu.edu) at Brigham Young University. I also worked towards an MS with [David Wingate](https://science.byu.edu/directory/david-wingate) on NLP and machine learning for soft robotics until I left to pursue my PhD. Historically, I've also spent time on a variety of problems including computer vision, RL for soft robotics, ML-based quantitative investing, and NLP for drug discovery.
+Hi! My name is Taylor Sorensen. I'm a Computer Science PhD student at the [University of Washington](https://www.cs.washington.edu), where I'm fortunate to be advised by [Yejin Choi](https://homes.cs.washington.edu/~yejin/). I research natural language processing (NLP) and artificial intelligence (AI) and am especially interested in [pluralistic alignment](https://arxiv.org/abs/2402.05070), large language models, and NLP for social good. I'm also a student researcher at Google DeepMind researching pluralistic alignment with the VOICES team.
 
 Publications
 ======
 Publications are listed in reverse chronological order. For a list of all publications, see [my google scholar profile](https://scholar.google.com/citations?hl=en&pli=1&user=dWaTwM4AAAAJ).
+
+- _Can Language Models Reason about Individualistic Human Values and Preferences?_  
+  Liwei Jiang, **Taylor Sorensen**, Sydney Levin, Yejin Choi
+  **In review**  
+  [Paper](https://arxiv.org/abs/2410.03868)
+
+- _Modular Pluralism: Pluralistic Alignment via Multi-LLM Collaboration_  
+  Shangbin Feng, **Taylor Sorensen**, Yuhan Liu, Jillian Fisher, Chan Young Park, Yejin Choi, Yulia Tsvetkov
+  **EMNLP 2024**  
+  [Paper](https://arxiv.org/abs/2406.15951)
 
 - _A Roadmap to Pluralistic Alignment_  
   **Taylor Sorensen**, Jared Moore, Jillian Fisher, Mitchell Gordon, Niloofar Mireshghallah, Christopher Michael Rytting, Andre Ye, Liwei Jiang, Ximing Lu, Nouha Dziri, Tim Althoff, Yejin Choi  
@@ -88,9 +96,11 @@ function showToast(text) {
 
 Invited Talks
 ======
+- University College London _Aligning AI with Pluralistic Human Values._ Sep 2024
+- Vienna Alignment Workshop _Pluralistic Alignment._ July 2024
 - IBM Research _AI and Pluralistic Human Values._ March 2024
 - BuzzRobot AI Community _Aligning AI with Pluralistic Human Values._ May 2024 [Recording](https://www.youtube.com/watch?v=lEoBNBfNklI)
 
 
 ======
-Website last updated: Apr 29, 2024
+Website last updated: Oct 14, 2024
