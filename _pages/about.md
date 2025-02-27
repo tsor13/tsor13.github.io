@@ -7,11 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! My name is Taylor Sorensen. I'm a Computer Science PhD student at the [University of Washington](https://www.cs.washington.edu), where I'm fortunate to be advised by [Yejin Choi](https://homes.cs.washington.edu/~yejin/). I research natural language processing (NLP) and artificial intelligence (AI) and am especially interested in [pluralistic alignment](https://arxiv.org/abs/2402.05070), large language models, and NLP for social good. I'm also a student researcher at Google DeepMind researching pluralistic alignment with the VOICES team.
+Hi! My name is Taylor Sorensen. I'm a Computer Science PhD student at the [University of Washington](https://www.cs.washington.edu), where I'm fortunate to be advised by [Yejin Choi](https://homes.cs.washington.edu/~yejin/). I research natural language processing (NLP) and artificial intelligence (AI) and am especially interested in [pluralistic alignment](https://arxiv.org/abs/2402.05070), large language models, and NLP for social good. I've also been fortunate to intern with Google DeepMind and AI2, and started my research journey at Brigham Young University with [David Wingate](https://scholar.google.com/citations?user=zCdh4NEAAAAJ&hl=en).
 
 Publications
 ======
 Publications are listed in reverse chronological order. For a list of all publications, see [my google scholar profile](https://scholar.google.com/citations?hl=en&pli=1&user=dWaTwM4AAAAJ).
+
+- _Investigating machine moral judgement through the Delphi experiment_  
+  Liwei Jiang, Jena D Hwang, Chandra Bhagavatula, Ronan Le Bras, Jenny T Liang, Sydney Levine, Jesse Dodge, Keisuke Sakaguchi, Maxwell Forbes, Jack Hessel, Jon Borchardt, **Taylor Sorensen**, Saadia Gabriel, Yulia Tsvetkov, Oren Etzioni, Maarten Sap, Regina Rini, Yejin Choi  
+  **Nature Machine Intelligence**  
+  [Paper](https://www.nature.com/articles/s42256-024-00969-6)
 
 - _Can Language Models Reason about Individualistic Human Values and Preferences?_  
   Liwei Jiang, **Taylor Sorensen**, Sydney Levin, Yejin Choi  
@@ -96,6 +101,9 @@ function showToast(text) {
 
 Invited Talks
 ======
+- MilaNLP _Pluralistic Alignment: A Roadmap, Recent Work, and Open Problems._ Jan 2025
+- Berkeley Simons Institute _Pluralistic Alignment: A Roadmap, Recent Work, and Open Problems._ Oct 2024 [Recording](https://www.youtube.com/watch?v=1F0iaivYdvI)
+- Dealing with Meaning Variation in NLP, University of Utrecht - _AI and Pluralistic Human Values_ Oct 2024
 - University College London _Aligning AI with Pluralistic Human Values._ Sep 2024
 - Vienna Alignment Workshop _Pluralistic Alignment._ July 2024
 - IBM Research _AI and Pluralistic Human Values._ March 2024
@@ -103,4 +111,4 @@ Invited Talks
 
 
 ======
-Website last updated: Oct 14, 2024
+Website last updated: Feb 27, 2025
