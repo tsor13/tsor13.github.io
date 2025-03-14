@@ -7,7 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! My name is Taylor Sorensen. I'm a Computer Science PhD student at the [University of Washington](https://www.cs.washington.edu), where I'm fortunate to be advised by [Yejin Choi](https://homes.cs.washington.edu/~yejin/). I research natural language processing (NLP) and artificial intelligence (AI) and am especially interested in [pluralistic alignment](https://arxiv.org/abs/2402.05070), large language models, and NLP for social good. I've also been fortunate to intern with Google DeepMind and AI2, and started my research journey at Brigham Young University with [David Wingate](https://scholar.google.com/citations?user=zCdh4NEAAAAJ&hl=en).
+Hi! I'm Taylor Sorensen, a Computer Science PhD student at the [University of Washington](https://www.cs.washington.edu) advised by Dr. [Yejin Choi](https://homes.cs.washington.edu/~yejin/). My research centers around natural language processing (NLP) and artificial intelligence (AI), with a particular focus on enabling large language models (LLMs) to align better with diverse human perspectives — or, "[pluralistic alignment](https://arxiv.org/abs/2402.05070)." I'm broadly interested in the science of LLMs and bridging NLP with human values/subjectivity, reasoning, and applications for social good.
+
+My research has appeared in leading conferences and journals such as ICML, AAAI, ACL, EMNLP, and PNAS, addressing topics ranging from core NLP to pluralistic alignment methodologies to using NLP to enhance democratic discourse and interpersonal understanding.
+
+I've been thrilled to see a community grow around pluralistic alignment, including a dedicated [NeurIPS workshop](https://pluralistic-alignment.github.io/) and presentations at the [Berkeley Simons Institute](https://www.youtube.com/live/1F0iaivYdvI?si=dup92H6Dbs3tP5f-), Google DeepMind, and the Vienna Alignment Workshop. If you're interested in pluralistic alignment, I'd love to hear what you're working on! While I'm quite busy, I try to prioritize being able to give light feedback to people working in the space.
+
+I've been lucky enough to intern with amazing teams at Google DeepMind and the Allen Institute for AI. Prior to my PhD, I studied applied mathematics and computer science at Brigham Young University, where I began my research journey under Dr. [David Wingate](https://scholar.google.com/citations?user=zCdh4NEAAAAJ&hl=en). With Dr. Wingate, I worked on topics including ML-driven soft robotics and foundational projects in prompt engineering and pro-democratic AI. During undergrad, I also had fun experiences like doing ML for a quantitative investment firm, interning doing ML for drug discovery, selling an NLP class project to a startup and teaching competitive programming.
+
+Currently, I'm broadly focused on NLP for domains where there _isn't_ a single objective ground truth - e.g., subjective judgments, distributional alignment, epistemic uncertainty - and AI for democracy/social good.
 
 Publications
 ======
