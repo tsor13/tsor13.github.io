@@ -21,6 +21,16 @@ Publications
 ======
 Publications are listed in reverse chronological order. For a list of all publications, see [my google scholar profile](https://scholar.google.com/citations?hl=en&pli=1&user=dWaTwM4AAAAJ).
 
+- _Value Profiles for Encoding Human Variation_  
+  **Taylor Sorensen**, Pushkar Mishra, Roma Patel, Michael Henry Tessler, Michiel Bakker, Georgina Evans, Jason Gabriel, Noah Goodman, Verena Rieser  
+  **arXiv Preprint**  
+  [Paper](https://arxiv.org/abs/2503.15484)
+
+- _Information-Guided Identification of Training Data Imprint in (Proprietary) Large Language Models_  
+  Abhilasha Ravichander, Jillian Fisher, **Taylor Sorensen**, Ximing Lu, Yuchen Lin, Maria Antoniak, Niloofar Mireshghallah, Chandra Bhagavatula, Yejin Choi  
+  **NAACL 2025**  
+  [Paper](https://arxiv.org/abs/2503.12072)
+
 - _Investigating machine moral judgement through the Delphi experiment_  
   Liwei Jiang, Jena D Hwang, Chandra Bhagavatula, Ronan Le Bras, Jenny T Liang, Sydney Levine, Jesse Dodge, Keisuke Sakaguchi, Maxwell Forbes, Jack Hessel, Jon Borchardt, **Taylor Sorensen**, Saadia Gabriel, Yulia Tsvetkov, Oren Etzioni, Maarten Sap, Regina Rini, Yejin Choi  
   **Nature Machine Intelligence**  
@@ -119,4 +129,4 @@ Invited Talks
 
 
 ======
-Website last updated: Feb 27, 2025
+Website last updated: Mar 20, 2025
