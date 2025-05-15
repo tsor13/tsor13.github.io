@@ -11,7 +11,7 @@ Hi! I'm Taylor Sorensen, a PhD student in Computer Science at the [University of
 
 Research Interests
 ======
-My research is centered around natural language processing (NLP), with a particular focus on **pluralistic alignment** ([roadmap paper](https://arxiv.org/abs/2402.05070)) - (post-)training large language models (LLMs) to **represent broad human values** and perspectives and maintain diversity. I also aim to enhance AI system’s capability to **navigate subjective judgments**, **handle epistemic uncertainty**, and **support democracy**.
+My research is centered around natural language processing (NLP), with a particular focus on **pluralistic alignment** ([roadmap paper](https://arxiv.org/abs/2402.05070)), including (post-)training large language models (LLMs) to **represent broad human values** and perspectives and maintain diversity. I also aim to enhance AI system’s capability to **navigate subjective judgments**, **handle epistemic uncertainty**, and **support democracy**.
 
 News
 ======
@@ -137,4 +137,4 @@ Invited Talks
 
 
 ======
-Website last updated: Mar 20, 2025
+Website last updated: May 14, 2025
