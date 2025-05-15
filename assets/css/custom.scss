@@ -1,0 +1,28 @@
+/* Custom styles to override theme defaults */
+
+/* Decrease base font size */
+html {
+  font-size: 14px;  /* Reduced from 16px */
+}
+
+/* Adjust type scale */
+$type-size-1: 2.2em;    /* ~30.8px */
+$type-size-2: 1.8em;    /* ~25.2px */
+$type-size-3: 1.4em;    /* ~19.6px */
+$type-size-4: 1.1em;    /* ~15.4px */
+$type-size-5: 0.9em;    /* ~12.6px */
+$type-size-6: 0.7em;    /* ~9.8px */
+
+/* Adjust line height for better readability with smaller font */
+body {
+  line-height: 1.4;
+}
+
+/* Adjust margins to be more compact */
+h1, h2, h3, h4, h5, h6 {
+  margin: 1.5em 0 0.4em;
+}
+
+p {
+  margin-bottom: 1em;
+} 
