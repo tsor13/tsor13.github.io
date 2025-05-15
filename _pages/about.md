@@ -7,15 +7,23 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I'm Taylor Sorensen, a Computer Science PhD student at the [University of Washington](https://www.cs.washington.edu) advised by Dr. [Yejin Choi](https://homes.cs.washington.edu/~yejin/). My research centers around natural language processing (NLP) and artificial intelligence (AI), with a particular focus on enabling large language models (LLMs) to align better with diverse human perspectives — or, "[pluralistic alignment](https://arxiv.org/abs/2402.05070)." I'm broadly interested in the science of LLMs and bridging NLP with human values/subjectivity, reasoning, and applications for social good.
+Hi! I'm Taylor Sorensen, a PhD student in Computer Science at the [University of Washington](https://www.cs.washington.edu), advised by Dr. [Yejin Choi](https://homes.cs.washington.edu/~yejin/). You can reach me at tsor13 [AT] cs.washington.edu.
 
-My research has appeared in leading conferences and journals such as ICML, AAAI, ACL, EMNLP, and PNAS, addressing topics ranging from core NLP to pluralistic alignment methodologies to using NLP to enhance democratic discourse and interpersonal understanding.
+Research Interests
+======
+My research is centered around natural language processing (NLP), with a particular focus on **[pluralistic alignment](https://arxiv.org/abs/2402.05070)** - (post-)training large language models (LLMs) to represent broad human values and perspectives and maintain diversity. I also aim to enhance AI system’s capability to navigate subjective judgments, handle epistemic uncertainty, and support democratic discourse.
 
-I've been thrilled to see a community grow around pluralistic alignment, including a dedicated [NeurIPS workshop](https://pluralistic-alignment.github.io/) and presentations at the [Berkeley Simons Institute](https://www.youtube.com/live/1F0iaivYdvI?si=dup92H6Dbs3tP5f-), Google DeepMind, and the Vienna Alignment Workshop. If you're interested in pluralistic alignment, I'd love to hear what you're working on! While I'm quite busy, I try to prioritize being able to give light feedback to people working in the space.
-
-I've been lucky enough to intern with amazing teams at Google DeepMind and the Allen Institute for AI. Prior to my PhD, I studied applied mathematics and computer science at Brigham Young University, where I began my research journey under Dr. [David Wingate](https://scholar.google.com/citations?user=zCdh4NEAAAAJ&hl=en). With Dr. Wingate, I worked on topics including ML-driven soft robotics and foundational projects in prompt engineering and pro-democratic AI. During undergrad, I also had fun experiences like doing ML for a quantitative investment firm, interning doing ML for drug discovery, selling an NLP class project to a startup and teaching competitive programming.
-
-Currently, I'm broadly focused on NLP for domains where there _isn't_ a single objective ground truth - e.g., subjective judgments, distributional alignment, epistemic uncertainty - and AI for democracy/social good.
+News
+======
+- 📚 Dedicated [NeurIPS workshop](https://pluralistic-alignment.github.io/) on pluralistic alignment, advised by Yoshua Bengio (Dec 2024)
+- 🎤 Invited talk at the [Berkeley Simons Institute](https://www.youtube.com/live/1F0iaivYdvI?si=dup92H6Dbs3tP5f-) (Oct 2024)
+- 🇬🇧 Internship at Google DeepMind in London (July 2024)
+- 🎉 Awarded research grant from the Institute for Humane Studies (June 2024)
+- 📰 Our ICML position paper featured by Jack Clark's [Import AI Newsletter](https://importai.substack.com/p/import-ai-360-guessing-emotions-drone) and Nathan Lambert's [Interconnect Newsletter](https://www.interconnects.ai/p/reinventing-llm-alignment) (June 2024)
+- 🎤 [_Value Kaleidoscope_](https://ojs.aaai.org/index.php/AAAI/article/view/29970) selected for Oral presentation at AAAI (top 1.5%) (Feb 2024)
+- 🗳️ Our paper on using AI for democratic discourse accepted at [PNAS](https://www.pnas.org/doi/10.1073/pnas.2311627120) (Oct 2023)
+- 🌧️ Internship at Allen Institute for AI (AI2) in Seattle (June 2023)
+- 🎓 Started PhD at UW, advised by [Yejin Choi](https://homes.cs.washington.edu/~yejin/) (Sep 2022)
 
 Publications
 ======
