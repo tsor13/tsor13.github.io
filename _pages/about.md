@@ -127,6 +127,9 @@ function showToast(text) {
 
 Invited Talks
 ======
+- [UPCOMING] Foundations of Responsible Computing Pre-Conference Workshop, June 2025
+- [UPCOMING] Disagreement Workshop _Value Profiles for Encoding Human Variation._ May 2025
+- National Symposium on Equitable AI _Pluralistic Alignment: A Roadmap, Recent Work, and Open Problems._ April 2025
 - MilaNLP _Pluralistic Alignment: A Roadmap, Recent Work, and Open Problems._ Jan 2025
 - Berkeley Simons Institute _Pluralistic Alignment: A Roadmap, Recent Work, and Open Problems._ Oct 2024 [Recording](https://www.youtube.com/watch?v=1F0iaivYdvI)
 - Dealing with Meaning Variation in NLP, University of Utrecht - _AI and Pluralistic Human Values_ Oct 2024
