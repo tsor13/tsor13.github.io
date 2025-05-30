@@ -15,6 +15,7 @@ My research is centered around natural language processing (NLP), with a particu
 
 News
 ======
+- _A Roadmap to Pluralistic Alignment_ was ranked **#22 most influential AI paper on arXiv in 2024** by [PaperDigest](https://resources.paperdigest.org/2025/03/most-influential-arxiv-artificial-intelligence-papers-2025-03-version/)
 - 📚 Dedicated **[NeurIPS workshop](https://pluralistic-alignment.github.io/)** on pluralistic alignment, advised by Yoshua Bengio (Dec 2024)
 - 🎤 Invited talk at the **[Berkeley Simons Institute](https://www.youtube.com/live/1F0iaivYdvI?si=dup92H6Dbs3tP5f-)** (Oct 2024)
 - 🇬🇧 Internship at **Google DeepMind** in London (July 2024)
