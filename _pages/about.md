@@ -33,7 +33,7 @@ Publications are listed in reverse chronological order. For a list of all public
 
 - _Value Profiles for Encoding Human Variation_  
   **Taylor Sorensen**, Pushkar Mishra, Roma Patel, Michael Henry Tessler, Michiel Bakker, Georgina Evans, Jason Gabriel, Noah Goodman, Verena Rieser  
-  **arXiv Preprint**  
+  **EMNLP 2025**  
   [Paper](https://arxiv.org/abs/2503.15484)
 
 - _Information-Guided Identification of Training Data Imprint in (Proprietary) Large Language Models_  
@@ -48,7 +48,7 @@ Publications are listed in reverse chronological order. For a list of all public
 
 - _Can Language Models Reason about Individualistic Human Values and Preferences?_  
   Liwei Jiang, **Taylor Sorensen**, Sydney Levin, Yejin Choi  
-  **Arxiv Preprint**  
+  **ACL 2025**  
   [Paper](https://arxiv.org/abs/2410.03868)
 
 - _Modular Pluralism: Pluralistic Alignment via Multi-LLM Collaboration_  
