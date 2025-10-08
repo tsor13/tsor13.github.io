@@ -11,7 +11,7 @@ Hi! I'm Taylor Sorensen, a PhD candidate in Computer Science at the [University 
 
 Research Interests
 ======
-My research is centered around natural language processing (NLP), with a particular focus on **pluralistic alignment** ([roadmap paper](https://arxiv.org/abs/2402.05070)), including (post-)training large language models (LLMs) to **represent broad human values** and perspectives and maintain diversity. I also aim to enhance AI system’s capabilities to **navigate subjective judgments**, **handle epistemic uncertainty**, and **support democracy**.
+My research is centered around natural language processing (NLP), with a particular focus on **pluralistic alignment** ([roadmap paper](https://arxiv.org/abs/2402.05070)), including [(post-)training](https://arxiv.org/abs/2510.06084) large language models (LLMs) to **represent broad human values** and perspectives and maintain diversity. I also aim to enhance AI system’s capabilities to **navigate subjective judgments**, **handle epistemic uncertainty**, and **support democracy**.
 
 News
 ======
@@ -30,6 +30,11 @@ News
 Publications
 ======
 Publications are listed in reverse chronological order. For a list of all publications, see [my google scholar profile](https://scholar.google.com/citations?hl=en&pli=1&user=dWaTwM4AAAAJ).
+
+- _Spectrum Tuning: Post-Training for Distributional Coverage and In-Context Steerability_  
+  **Taylor Sorensen**, Benjamin Newman, Jared Moore, Chan Park, Jillian Fisher, Niloofar Mireshghallah, Liwei Jiang, Yejin Choi
+  **arXiv Preprint**  
+  [Paper](https://arxiv.org/abs/2510.06084), [Models](https://huggingface.co/collections/tsor13/spectrum-68dac670f618224845c0fb7d), [Code and Data](https://github.com/tsor13/spectrum)
 
 - _Value Profiles for Encoding Human Variation_  
   **Taylor Sorensen**, Pushkar Mishra, Roma Patel, Michael Henry Tessler, Michiel Bakker, Georgina Evans, Jason Gabriel, Noah Goodman, Verena Rieser  
@@ -129,7 +134,8 @@ function showToast(text) {
 
 Invited Talks
 ======
-- [UPCOMING] Foundations of Responsible Computing Pre-Conference Workshop, June 2025
+- Stanford [CS329X](https://web.stanford.edu/class/cs329x/) _Guest Lecture_, Oct 2025
+- Foundations of Responsible Computing Pre-Conference Workshop, June 2025
 - Carnegie Mellon University [_Values-in-the-Loop Workshop._](https://sites.google.com/andrew.cmu.edu/values-in-the-loop/home?authuser=0) May 2025
 - Disagreement Workshop _Value Profiles for Encoding Human Variation._ May 2025
 - National Symposium on Equitable AI _Pluralistic Alignment: A Roadmap, Recent Work, and Open Problems._ April 2025
