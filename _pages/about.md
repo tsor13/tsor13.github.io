@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I'm Taylor Sorensen, a PhD candidate in Computer Science at the [University of Washington](https://www.cs.washington.edu), advised by Dr. [Yejin Choi](https://homes.cs.washington.edu/~yejin/). You can reach me at tsor13 [AT] cs.washington.edu.
+Hi! I'm Taylor Sorensen, a PhD candidate in Computer Science at the [University of Washington](https://www.cs.washington.edu) and a visting student at [Stanford NLP](https://nlp.stanford.edu/), advised by Dr. [Yejin Choi](https://homes.cs.washington.edu/~yejin/). You can reach me at tsor13 [AT] cs.washington.edu.
 
 Research Interests
 ======
@@ -27,19 +27,49 @@ News
 - 🌧️ Internship at **Allen Institute for AI (AI2)** in Seattle (June 2023)
 - 🎓 **Started PhD at UW**, advised by [Yejin Choi](https://homes.cs.washington.edu/~yejin/) (Sep 2022)
 
-Publications
+Selected Publications
 ======
-Publications are listed in reverse chronological order. For a list of all publications, see [my google scholar profile](https://scholar.google.com/citations?hl=en&pli=1&user=dWaTwM4AAAAJ).
+For a list of all publications, see [my google scholar profile](https://scholar.google.com/citations?hl=en&pli=1&user=dWaTwM4AAAAJ).
+
+- _A Roadmap to Pluralistic Alignment_  
+  **Taylor Sorensen**, Jared Moore, Jillian Fisher, Mitchell Gordon, Niloofar Mireshghallah, Christopher Michael Rytting, Andre Ye, Liwei Jiang, Ximing Lu, Nouha Dziri, Tim Althoff, Yejin Choi  
+  **ICML 2024 Position Paper**  
+  [Paper](https://arxiv.org/abs/2402.05070), Featured in [Jack Clark's Import AI](https://importai.substack.com/p/import-ai-360-guessing-emotions-drone)  and [Interconnects](https://www.interconnects.ai/p/reinventing-llm-alignment), [Invited Talk](https://www.youtube.com/watch?v=lEoBNBfNklI)
 
 - _Spectrum Tuning: Post-Training for Distributional Coverage and In-Context Steerability_  
-  **Taylor Sorensen**, Benjamin Newman, Jared Moore, Chan Park, Jillian Fisher, Niloofar Mireshghallah, Liwei Jiang, Yejin Choi
+  **Taylor Sorensen**, Benjamin Newman, Jared Moore, Chan Park, Jillian Fisher, Niloofar Mireshghallah, Liwei Jiang, Yejin Choi  
   **arXiv Preprint**  
   [Paper](https://arxiv.org/abs/2510.06084), [Models](https://huggingface.co/collections/tsor13/spectrum-68dac670f618224845c0fb7d), [Code and Data](https://github.com/tsor13/spectrum)
+
+- _Value Kaleidoscope: Engaging AI with Pluralistic Human Values, Rights, and Duties_  
+  **Taylor Sorensen**, Liwei Jiang, Jena Hwang, Sydney Levine, Valentina Pyatkin, Peter West, Nouha Dziri, Ximing Lu, Kavel Rao, Chandra Bhagavatula, Maarten Sap, John Tasioulas, Yejin Choi  
+  **AAAI 2024**  _Oral (top 3% of submissions)_    
+  [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29970), [Presentation](https://underline.io/lecture/93113-value-kaleidoscope-engaging-ai-with-pluralistic-human-values-rights-and-duties), [Demo](https://kaleido.allen.ai/), [Code](https://github.com/tsor13/kaleido), [Dataset](https://huggingface.co/datasets/tsor13/ValuePrism), [Model](https://huggingface.co/tsor13/kaleido-xl), [Invited Talk](https://www.youtube.com/watch?v=lEoBNBfNklI)
+
+- _Opt-ICL at LeWiDi-2025: Maximizing In-Context Signal from Rater Examples via Meta-Learning_  
+  **Taylor Sorensen**, Yejin Choi  
+  **NLPerspectives Workshop @ EMNLP 2025**
+  [Paper](https://arxiv.org/abs/2510.07105), Winner of [2025 LeWiDi Competition](https://le-wi-di.github.io/)
 
 - _Value Profiles for Encoding Human Variation_  
   **Taylor Sorensen**, Pushkar Mishra, Roma Patel, Michael Henry Tessler, Michiel Bakker, Georgina Evans, Jason Gabriel, Noah Goodman, Verena Rieser  
   **EMNLP 2025**  
   [Paper](https://arxiv.org/abs/2503.15484)
+
+- _An Information-theoretic Approach to Prompt Engineering Without Ground Truth Labels_  
+  **Taylor Sorensen**, Joshua Robinson, Christopher Michael Rytting, Alexander Glenn Shaw, Kyle Jeffrey Rogers, Alexia Pauline Delorey, Mahmoud Khalil, Nancy Fulda, David Wingate  
+  **ACL 2022**  
+  [Paper](https://aclanthology.org/2022.acl-long.60/), [Code](https://github.com/BYU-PCCL/information-theoretic-prompts), [Presentation](https://underline.io/events/284/sessions/10759/lecture/50282-long-an-information-theoretic-approach-to-prompt-engineering-without-ground-truth-labels)
+
+- _Modular Pluralism: Pluralistic Alignment via Multi-LLM Collaboration_  
+  Shangbin Feng, **Taylor Sorensen**, Yuhan Liu, Jillian Fisher, Chan Young Park, Yejin Choi, Yulia Tsvetkov  
+  **EMNLP 2024**  
+  [Paper](https://arxiv.org/abs/2406.15951)
+
+- _Leveraging AI for democratic discourse: Chat interventions can improve online political conversations at scale_  
+  Lisa P. Argyle, Christopher A. Bail, Ethan C. Busby, Joshua R. Gubler, Thomas Howe, Christopher Rytting, **Taylor Sorensen**, David Wingate  
+  **Published in PNAS**  
+  [Paper](https://www.pnas.org/doi/10.1073/pnas.2311627120), [Science Journal for Kids Adaptation](https://www.sciencejournalforkids.org/articles/how-can-ai-make-online-chats-kinder/)
 
 - _Information-Guided Identification of Training Data Imprint in (Proprietary) Large Language Models_  
   Abhilasha Ravichander, Jillian Fisher, **Taylor Sorensen**, Ximing Lu, Yuchen Lin, Maria Antoniak, Niloofar Mireshghallah, Chandra Bhagavatula, Yejin Choi  
@@ -56,25 +86,10 @@ Publications are listed in reverse chronological order. For a list of all public
   **ACL 2025**  
   [Paper](https://arxiv.org/abs/2410.03868)
 
-- _Modular Pluralism: Pluralistic Alignment via Multi-LLM Collaboration_  
-  Shangbin Feng, **Taylor Sorensen**, Yuhan Liu, Jillian Fisher, Chan Young Park, Yejin Choi, Yulia Tsvetkov  
-  **EMNLP 2024**  
-  [Paper](https://arxiv.org/abs/2406.15951)
-
-- _A Roadmap to Pluralistic Alignment_  
-  **Taylor Sorensen**, Jared Moore, Jillian Fisher, Mitchell Gordon, Niloofar Mireshghallah, Christopher Michael Rytting, Andre Ye, Liwei Jiang, Ximing Lu, Nouha Dziri, Tim Althoff, Yejin Choi  
-  **ICML 2024 Position Paper**  
-  [Paper](https://arxiv.org/abs/2402.05070), Featured in [Jack Clark's Import AI](https://importai.substack.com/p/import-ai-360-guessing-emotions-drone)  and [Interconnects](https://www.interconnects.ai/p/reinventing-llm-alignment), [Invited Talk](https://www.youtube.com/watch?v=lEoBNBfNklI)
-
-- _Leveraging AI for democratic discourse: Chat interventions can improve online political conversations at scale_  
-  Lisa P. Argyle, Christopher A. Bail, Ethan C. Busby, Joshua R. Gubler, Thomas Howe, Christopher Rytting, **Taylor Sorensen**, David Wingate  
-  **Published in PNAS**  
-  [Paper](https://www.pnas.org/doi/10.1073/pnas.2311627120), [Science Journal for Kids Adaptation](https://www.sciencejournalforkids.org/articles/how-can-ai-make-online-chats-kinder/)
-
-- _Value Kaleidoscope: Engaging AI with Pluralistic Human Values, Rights, and Duties_  
-  **Taylor Sorensen**, Liwei Jiang, Jena Hwang, Sydney Levine, Valentina Pyatkin, Peter West, Nouha Dziri, Ximing Lu, Kavel Rao, Chandra Bhagavatula, Maarten Sap, John Tasioulas, Yejin Choi  
-  **AAAI 2024**  _Oral (top 3% of submissions)_    
-  [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29970), [Presentation](https://underline.io/lecture/93113-value-kaleidoscope-engaging-ai-with-pluralistic-human-values-rights-and-duties), [Demo](https://kaleido.allen.ai/), [Code](https://github.com/tsor13/kaleido), [Dataset](https://huggingface.co/datasets/tsor13/ValuePrism), [Model](https://huggingface.co/tsor13/kaleido-xl), [Invited Talk](https://www.youtube.com/watch?v=lEoBNBfNklI)
+- _EvalueSteer: Measuring Reward Model Steerability Towards Values and Preferences_  
+  Kshitish Ghate, Andy Liu, Devansh Jain, **Taylor Sorensen**, Atoosa Kasirzadeh, Aylin Caliskan, Mona T Diab, Maarten Sap  
+  **arXiv Preprint**  
+  [Paper](https://arxiv.org/abs/2510.06370)
 
 <div id="toast" style="visibility: hidden; min-width: 250px; margin-left: -125px; background-color: black; color: white; text-align: center; border-radius: 2px; padding: 16px; position: fixed; z-index: 1; left: 50%; bottom: 30px; font-size: 17px;"></div>
 
@@ -117,11 +132,6 @@ function showToast(text) {
   **Findings of EMNLP 2022**   
   [Paper](https://aclanthology.org/2022.findings-emnlp.412/), [Code](https://github.com/BYU-PCCL/prompt-compression-contrastive-coding)
 
-- _An Information-theoretic Approach to Prompt Engineering Without Ground Truth Labels_  
-  **Taylor Sorensen**, Joshua Robinson, Christopher Michael Rytting, Alexander Glenn Shaw, Kyle Jeffrey Rogers, Alexia Pauline Delorey, Mahmoud Khalil, Nancy Fulda, David Wingate  
-  **ACL 2022**  
-  [Paper](https://aclanthology.org/2022.acl-long.60/), [Code](https://github.com/BYU-PCCL/information-theoretic-prompts), [Presentation](https://underline.io/events/284/sessions/10759/lecture/50282-long-an-information-theoretic-approach-to-prompt-engineering-without-ground-truth-labels)
-
 - _Nl-augmenter: A framework for task-sensitive natural language augmentation_  
   Kaustubh D Dhole, Varun Gangal, Sebastian Gehrmann, ..., **Taylor Sorensen** et al.  
   **Arxiv Preprint**  
@@ -134,6 +144,7 @@ function showToast(text) {
 
 Invited Talks
 ======
+- University of Pittsburgh NLP Seminar/[CS 1684](https://imminent-honey-ff0.notion.site/CS-1684-2084-Fall-2025-27166af9a07d421891c38afb0634f7b4) _Guest Lecture_, Oct 2025
 - Stanford [CS329X](https://web.stanford.edu/class/cs329x/) _Guest Lecture_, Oct 2025
 - Foundations of Responsible Computing Pre-Conference Workshop, June 2025
 - Carnegie Mellon University [_Values-in-the-Loop Workshop._](https://sites.google.com/andrew.cmu.edu/values-in-the-loop/home?authuser=0) May 2025
@@ -149,4 +160,4 @@ Invited Talks
 
 
 ======
-Website last updated: May 30, 2025
+Website last updated: Oct 23, 2025
