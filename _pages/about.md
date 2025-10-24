@@ -34,7 +34,7 @@ For a list of all publications, see [my google scholar profile](https://scholar.
 - _A Roadmap to Pluralistic Alignment_  
   **Taylor Sorensen**, Jared Moore, Jillian Fisher, Mitchell Gordon, Niloofar Mireshghallah, Christopher Michael Rytting, Andre Ye, Liwei Jiang, Ximing Lu, Nouha Dziri, Tim Althoff, Yejin Choi  
   **ICML 2024 (Position Paper Track)**  
-  [Paper](https://arxiv.org/abs/2402.05070), Featured in [Jack Clark's Import AI](https://importai.substack.com/p/import-ai-360-guessing-emotions-drone)  and [Interconnects](https://www.interconnects.ai/p/reinventing-llm-alignment), [Invited Talk](https://www.youtube.com/watch?v=lEoBNBfNklI)
+  [Paper](https://arxiv.org/abs/2402.05070), Featured in [Jack Clark's Import AI](https://importai.substack.com/p/import-ai-360-guessing-emotions-drone)  and [Interconnects](https://www.interconnects.ai/p/reinventing-llm-alignment), [Invited Talk](https://www.youtube.com/watch?v=lEoBNBfNklI), [#22 most influential arXiv AI paper (Paper Digest, 2025-03)](https://resources.paperdigest.org/2025/03/most-influential-arxiv-artificial-intelligence-papers-2025-03-version/)
 
 - _Spectrum Tuning: Post-Training for Distributional Coverage and In-Context Steerability_  
   **Taylor Sorensen**, Benjamin Newman, Jared Moore, Chan Park, Jillian Fisher, Niloofar Mireshghallah, Liwei Jiang, Yejin Choi  
