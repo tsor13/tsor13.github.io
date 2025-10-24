@@ -33,7 +33,7 @@ For a list of all publications, see [my google scholar profile](https://scholar.
 
 - _A Roadmap to Pluralistic Alignment_  
   **Taylor Sorensen**, Jared Moore, Jillian Fisher, Mitchell Gordon, Niloofar Mireshghallah, Christopher Michael Rytting, Andre Ye, Liwei Jiang, Ximing Lu, Nouha Dziri, Tim Althoff, Yejin Choi  
-  **ICML 2024 Position Paper**  
+  **ICML 2024 (Position Paper Track)**  
   [Paper](https://arxiv.org/abs/2402.05070), Featured in [Jack Clark's Import AI](https://importai.substack.com/p/import-ai-360-guessing-emotions-drone)  and [Interconnects](https://www.interconnects.ai/p/reinventing-llm-alignment), [Invited Talk](https://www.youtube.com/watch?v=lEoBNBfNklI)
 
 - _Spectrum Tuning: Post-Training for Distributional Coverage and In-Context Steerability_  
@@ -46,15 +46,15 @@ For a list of all publications, see [my google scholar profile](https://scholar.
   **AAAI 2024**  _Oral (top 3% of submissions)_    
   [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29970), [Presentation](https://underline.io/lecture/93113-value-kaleidoscope-engaging-ai-with-pluralistic-human-values-rights-and-duties), [Demo](https://kaleido.allen.ai/), [Code](https://github.com/tsor13/kaleido), [Dataset](https://huggingface.co/datasets/tsor13/ValuePrism), [Model](https://huggingface.co/tsor13/kaleido-xl), [Invited Talk](https://www.youtube.com/watch?v=lEoBNBfNklI)
 
-- _Opt-ICL at LeWiDi-2025: Maximizing In-Context Signal from Rater Examples via Meta-Learning_  
-  **Taylor Sorensen**, Yejin Choi  
-  **NLPerspectives Workshop @ EMNLP 2025**
-  [Paper](https://arxiv.org/abs/2510.07105), Winner of [2025 LeWiDi Competition](https://le-wi-di.github.io/)
-
 - _Value Profiles for Encoding Human Variation_  
   **Taylor Sorensen**, Pushkar Mishra, Roma Patel, Michael Henry Tessler, Michiel Bakker, Georgina Evans, Jason Gabriel, Noah Goodman, Verena Rieser  
   **EMNLP 2025**  
   [Paper](https://arxiv.org/abs/2503.15484)
+
+- _Opt-ICL at LeWiDi-2025: Maximizing In-Context Signal from Rater Examples via Meta-Learning_  
+  **Taylor Sorensen**, Yejin Choi  
+  **NLPerspectives Workshop @ EMNLP 2025**
+  [Paper](https://arxiv.org/abs/2510.07105), Winner of [2025 LeWiDi Competition](https://le-wi-di.github.io/)
 
 - _An Information-theoretic Approach to Prompt Engineering Without Ground Truth Labels_  
   **Taylor Sorensen**, Joshua Robinson, Christopher Michael Rytting, Alexander Glenn Shaw, Kyle Jeffrey Rogers, Alexia Pauline Delorey, Mahmoud Khalil, Nancy Fulda, David Wingate  
