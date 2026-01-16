@@ -1,20 +1,22 @@
 ---
 permalink: /
-title: "Taylor Sorensen (he/him)"
+title: "Taylor Sorensen"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Hi! I'm Taylor Sorensen, a PhD candidate in Computer Science at the [University of Washington](https://www.cs.washington.edu) and a visting student at [Stanford NLP](https://nlp.stanford.edu/), advised by Dr. [Yejin Choi](https://homes.cs.washington.edu/~yejin/). You can reach me at tsor13 [AT] cs.washington.edu.
+Hi! I'm Taylor Sorensen, a researcher at [humans&](https://humansand.ai/). I received my PhD in Computer Science at the University of Washington, where I was advised by [Yejin Choi](https://homes.cs.washington.edu/~yejin/). During my PhD, I also spent time at Stanford NLP as a visiting student.
 
 Research Interests
 ======
-My research is centered around natural language processing (NLP), with a particular focus on **pluralistic alignment** ([roadmap paper](https://arxiv.org/abs/2402.05070)), including [(post-)training](https://arxiv.org/abs/2510.06084) large language models (LLMs) to **represent broad human values** and perspectives and maintain diversity. I also aim to enhance AI system’s capabilities to **navigate subjective judgments**, **handle epistemic uncertainty**, and **support democracy**.
+My PhD research was centered around natural language processing (NLP), with a particular focus on **pluralistic alignment** ([roadmap paper](https://arxiv.org/abs/2402.05070)), including [(post-)training](https://arxiv.org/abs/2510.06084) large language models (LLMs) to **represent broad human values** and perspectives and maintain diversity. Other interests have included enhancing AI system's capabilities to **navigate subjective judgments**, **handle epistemic uncertainty**, and **support democracy**.
 
 News
 ======
+- 🏢 [Joined humans&!](https://humansand.ai/) More news coming soon...
+- 🎓 **Successfully defended** my dissertation [_Steps Towards the Pluralistic Alignment of Language Models_](https://www.proquest.com/docview/3292719556?sourcetype=Dissertations%20&%20Theses) and graduated! (Dec 2025)
 - 🚀 Passed my general exam and am now a PhD candidate! (May 2025)
 - 🏆 _A Roadmap to Pluralistic Alignment_ was ranked **#22 most influential 2024 arxiv AI paper** by [PaperDigest](https://resources.paperdigest.org/2025/03/most-influential-arxiv-artificial-intelligence-papers-2025-03-version/)
 - 📚 Dedicated **[NeurIPS workshop](https://pluralistic-alignment.github.io/)** on pluralistic alignment, advised by Yoshua Bengio (Dec 2024)
@@ -160,4 +162,4 @@ Invited Talks
 
 
 ======
-Website last updated: Oct 23, 2025
+Website last updated: Jan 16, 2026
