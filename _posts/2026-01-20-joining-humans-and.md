@@ -73,3 +73,4 @@ If this all resonates with you, please stay in touch! Go humans!
 Also, you should check out these great posts by some of my colleagues!
 - From Noah Goodman: [WSJ: To Build a Better AI, Reverse Its Antisocial Tendencies](https://www.wsj.com/tech/ai/to-build-a-better-ai-reverse-its-antisocial-tendencies-ab4006d7?reflink=desktopwebshare_permalink), [Interdependence as the objective](https://substack.com/home/post/p-176384281)
 - From Alexis Ross: [Why I joined humans& and some (belated) reflections on pursuing AI research with meaning](https://alexisjihyeross.github.io/why-i-joined-humans-and/)
+- From Niloofar Mireshghallah: [Why I Joined humans&](https://mireshghallah.github.io/blog/why_i_joined_humansand.html)
