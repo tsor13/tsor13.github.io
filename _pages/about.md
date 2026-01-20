@@ -15,7 +15,7 @@ My PhD research was centered around natural language processing (NLP), with a pa
 
 News
 ======
-- 🏢 [Joined humans&!](https://humansand.ai/) More news coming soon...
+- 🏢 [Joined humans&!](https://humansand.ai/) To read about why I joined, check out [my blog post](/posts/2026/01/joining-humans-and/).
 - 🎓 **Successfully defended** my dissertation [_Steps Towards the Pluralistic Alignment of Language Models_](https://www.proquest.com/docview/3292719556?sourcetype=Dissertations%20&%20Theses) and graduated! (Dec 2025)
 - 🚀 Passed my general exam and am now a PhD candidate! (May 2025)
 - 🏆 _A Roadmap to Pluralistic Alignment_ was ranked **#22 most influential 2024 arxiv AI paper** by [PaperDigest](https://resources.paperdigest.org/2025/03/most-influential-arxiv-artificial-intelligence-papers-2025-03-version/)
@@ -162,4 +162,4 @@ Invited Talks
 
 
 ======
-Website last updated: Jan 16, 2026
+Website last updated: Jan 20, 2026
