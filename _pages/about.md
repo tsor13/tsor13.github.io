@@ -15,11 +15,13 @@ My PhD research was centered around natural language processing (NLP), with a pa
 
 News
 ======
+- 📚 Co-organizing the **[Second Pluralistic Alignment Workshop](https://pluralistic-alignment.github.io/)** at ICML 2026
+- 📄 _Spectrum Tuning_ accepted to **ICLR 2026**
 - 🏢 [Joined humans&!](https://humansand.ai/) To read about why I joined, check out [my blog post](/posts/2026/01/joining-humans-and/).
 - 🎓 **Successfully defended** my dissertation [_Steps Towards the Pluralistic Alignment of Language Models_](https://www.proquest.com/docview/3292719556?sourcetype=Dissertations%20&%20Theses) and graduated! (Dec 2025)
 - 🚀 Passed my general exam and am now a PhD candidate! (May 2025)
 - 🏆 _A Roadmap to Pluralistic Alignment_ was ranked **#22 most influential 2024 arxiv AI paper** by [PaperDigest](https://resources.paperdigest.org/2025/03/most-influential-arxiv-artificial-intelligence-papers-2025-03-version/)
-- 📚 Dedicated **[NeurIPS workshop](https://pluralistic-alignment.github.io/)** on pluralistic alignment, advised by Yoshua Bengio (Dec 2024)
+- 📚 Dedicated **[NeurIPS workshop](https://pluralistic-alignment.github.io/neurips2024/)** on pluralistic alignment, advised by Yoshua Bengio (Dec 2024)
 - 🎤 Invited talk at the **[Berkeley Simons Institute](https://www.youtube.com/live/1F0iaivYdvI?si=dup92H6Dbs3tP5f-)** (Oct 2024)
 - 🇬🇧 Internship at **Google DeepMind** in London (July 2024)
 - 🎉 **Awarded research grant** from the Institute for Humane Studies (June 2024)
@@ -40,7 +42,7 @@ For a list of all publications, see [my google scholar profile](https://scholar.
 
 - _Spectrum Tuning: Post-Training for Distributional Coverage and In-Context Steerability_  
   **Taylor Sorensen**, Benjamin Newman, Jared Moore, Chan Park, Jillian Fisher, Niloofar Mireshghallah, Liwei Jiang, Yejin Choi  
-  **arXiv Preprint**  
+  **ICLR 2026**  
   [Paper](https://arxiv.org/abs/2510.06084), [Models](https://huggingface.co/collections/tsor13/spectrum-68dac670f618224845c0fb7d), [Code and Data](https://github.com/tsor13/spectrum)
 
 - _Value Kaleidoscope: Engaging AI with Pluralistic Human Values, Rights, and Duties_  
@@ -49,7 +51,7 @@ For a list of all publications, see [my google scholar profile](https://scholar.
   [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29970), [Presentation](https://underline.io/lecture/93113-value-kaleidoscope-engaging-ai-with-pluralistic-human-values-rights-and-duties), [Demo](https://kaleido.allen.ai/), [Code](https://github.com/tsor13/kaleido), [Dataset](https://huggingface.co/datasets/tsor13/ValuePrism), [Model](https://huggingface.co/tsor13/kaleido-xl), [Invited Talk](https://www.youtube.com/watch?v=lEoBNBfNklI)
 
 - _Value Profiles for Encoding Human Variation_  
-  **Taylor Sorensen**, Pushkar Mishra, Roma Patel, Michael Henry Tessler, Michiel Bakker, Georgina Evans, Jason Gabriel, Noah Goodman, Verena Rieser  
+  **Taylor Sorensen**, Pushkar Mishra, Roma Patel, Michael Henry Tessler, Michiel Bakker, Georgina Evans, Iason Gabriel, Noah Goodman, Verena Rieser  
   **EMNLP 2025**  
   [Paper](https://arxiv.org/abs/2503.15484)
 
