@@ -15,7 +15,7 @@ My PhD research was centered around natural language processing (NLP), with a pa
 
 News
 ======
-- 🏢 Joined **[Anthropic](https://www.anthropic.com/)** on the Societal Impacts team! (June 2026)
+- 🏢 Joined **Anthropic** on the [Societal Impacts team](https://www.anthropic.com/research/team/societal-impacts)! (June 2026)
 - 📚 Co-organizing the **[Second Pluralistic Alignment Workshop](https://pluralistic-alignment.github.io/)** at ICML 2026
 - 📄 _Spectrum Tuning_ accepted to **ICLR 2026**
 - 🏢 [Joined humans&!](https://humansand.ai/) To read about why I joined, check out [my blog post](/posts/2026/01/joining-humans-and/).
