@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I'm Taylor Sorensen, a researcher at [humans&](https://humansand.ai/). I received my PhD in Computer Science at the University of Washington, where I was advised by [Yejin Choi](https://homes.cs.washington.edu/~yejin/). During my PhD, I also spent time at Stanford NLP as a visiting student.
+Hi! I'm Taylor Sorensen, a researcher at [Anthropic](https://www.anthropic.com/). I received my PhD in Computer Science at the University of Washington, where I was advised by [Yejin Choi](https://homes.cs.washington.edu/~yejin/). During my PhD, I also spent time at Stanford NLP as a visiting student.
 
 Research Interests
 ======
@@ -15,6 +15,7 @@ My PhD research was centered around natural language processing (NLP), with a pa
 
 News
 ======
+- 🏢 Joined **[Anthropic](https://www.anthropic.com/)** on the Societal Impacts team! (June 2026)
 - 📚 Co-organizing the **[Second Pluralistic Alignment Workshop](https://pluralistic-alignment.github.io/)** at ICML 2026
 - 📄 _Spectrum Tuning_ accepted to **ICLR 2026**
 - 🏢 [Joined humans&!](https://humansand.ai/) To read about why I joined, check out [my blog post](/posts/2026/01/joining-humans-and/).
@@ -164,4 +165,4 @@ Invited Talks
 
 
 ======
-Website last updated: Jan 20, 2026
+Website last updated: Jun 19, 2026
